@@ -1,1 +1,1 @@
-#this app is created to sell the traditional rice varieties
+# This app is created to sell the traditional rice varieties
